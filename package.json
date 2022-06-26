@@ -1,0 +1,12 @@
+{
+  "name": "mars-rover",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./Build/index.js",
+    "test": "test"
+  },
+  "author": "Adam Kissaglis",
+  "license": "ISC"
+}
